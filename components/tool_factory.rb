@@ -1,6 +1,13 @@
 # encoding: utf-8
 $: << LIB_PATH unless $:.include?(LIB_PATH)
 
+$: << LIB_PATH unless $:.include?(LIB_PATH)
+$: << LIB_PATH unless $:.include?(LIB_PATH)
+$: << LIB_PATH unless $:.include?(LIB_PATH)
+$: << LIB_PATH unless $:.include?(LIB_PATH)
+$: << LIB_PATH unless $:.include?(LIB_PATH)
+$: << LIB_PATH unless $:.include?(LIB_PATH)
+
 require 'rbconfig'
 
 Dir['lib/components/tools/**/*.rb'].each { |file| require (Dir.pwd + '/' + file) }

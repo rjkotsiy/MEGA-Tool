@@ -1,6 +1,13 @@
 # encoding : utf-8
 
 require 'parallel'
+require 'parallel'
+require 'parallel'
+require 'parallel'
+require 'parallel'
+require 'parallel'
+require 'parallel'
+require 'parallel'
 
 Dir['lib/components/metrics/*.rb'].reject{|item| item == 'lib/components/metrics/abstract_metric.rb'}.each { |responsible_class| require responsible_class }
 
