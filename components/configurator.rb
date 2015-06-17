@@ -2,6 +2,9 @@
 
 require 'params_parser'
 require 'metric_factory'
+#some test1
+#some test2
+#some test2
 require 'singleton'
 
 module MGT
