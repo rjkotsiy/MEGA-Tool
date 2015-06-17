@@ -1,4 +1,9 @@
 call setenv.bat
+call setenv.batcall setenv.batcall setenv.batcall setenv.batcall setenv.batcall setenv.bat
+call setenv.bat
+
+call setenv.bat
+call setenv.bat
 
 cd %CD%\..
 
