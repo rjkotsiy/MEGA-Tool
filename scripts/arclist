@@ -1,0 +1,8 @@
+../bin
+../config
+../lib
+../vendor/
+../Gemfile
+../README.md
+../main.rb 
+../version
